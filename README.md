@@ -13,7 +13,7 @@ WiFi Connectivity
 Process Variable Monitoring
 Water Level Monitoring
 
-** Projects
+* Projects
 1. LoRa Communication
 
 Implemented wireless communication between ESP32 nodes using LoRa modules.
